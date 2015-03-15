@@ -1,0 +1,16 @@
+{
+  "name": "cross-browser",
+  "version": "0.0.0",
+  "description": "Provides cross browser DOM helpers",
+  "main": "cross-browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Oram <mitmaro@gmail.com> (http://www.mitmaro.ca)",
+  "repository": "https://github.com/MitMaro/CrossBrowser",
+  "bugs": "https://github.com/MitMaro/CrossBrowser/issues",
+  "license": "ISC",
+  "keywords": [
+    "DOM", "browser"
+  ]
+}
