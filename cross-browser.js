@@ -1,5 +1,6 @@
 module.exports = {
 	Event: {
-		preventDefault: require('./Event/preventDefault')
+		preventDefault: require('./Event/preventDefault'),
+		target: require('./Event/target')
 	}
 };
