@@ -1,6 +1,7 @@
 var getEvent = require('./event');
 /**
- * Gets the target of the event
+ * Prevents further propagation of the event
+ *
  * @see {@link https://msdn.microsoft.com/en-us/library/ie/ms533545(v=vs.85).aspx|MSDN#Events.cancelBubble}
  * @see {@link https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation|MDN#Event.stopPropagation}
  * @param {Event} event The event object
