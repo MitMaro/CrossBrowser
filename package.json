@@ -1,6 +1,6 @@
 {
   "name": "cross-browser",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Provides cross browser DOM helpers",
   "main": "cross-browser.js",
   "scripts": {
